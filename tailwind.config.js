@@ -32,6 +32,9 @@ module.exports = {
       '2xl': '30px',  
       '3xl': '50px',  
       '4xl': '60px',  
+    },
+    lineHeight: {
+      "4xl": "103%"
     }
   },
   plugins: [],
